@@ -1,0 +1,13 @@
+C:\Users\Валерия\source\repos\Практическая работа9\bin\Debug\netcoreapp3.1\Практическая работа9.exe
+C:\Users\Валерия\source\repos\Практическая работа9\bin\Debug\netcoreapp3.1\Практическая работа9.deps.json
+C:\Users\Валерия\source\repos\Практическая работа9\bin\Debug\netcoreapp3.1\Практическая работа9.runtimeconfig.json
+C:\Users\Валерия\source\repos\Практическая работа9\bin\Debug\netcoreapp3.1\Практическая работа9.runtimeconfig.dev.json
+C:\Users\Валерия\source\repos\Практическая работа9\bin\Debug\netcoreapp3.1\Практическая работа9.dll
+C:\Users\Валерия\source\repos\Практическая работа9\bin\Debug\netcoreapp3.1\Практическая работа9.pdb
+C:\Users\Валерия\source\repos\Практическая работа9\obj\Debug\netcoreapp3.1\Практическая работа9.csprojAssemblyReference.cache
+C:\Users\Валерия\source\repos\Практическая работа9\obj\Debug\netcoreapp3.1\Практическая работа9.AssemblyInfoInputs.cache
+C:\Users\Валерия\source\repos\Практическая работа9\obj\Debug\netcoreapp3.1\Практическая работа9.AssemblyInfo.cs
+C:\Users\Валерия\source\repos\Практическая работа9\obj\Debug\netcoreapp3.1\Практическая работа9.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\Практическая работа9\obj\Debug\netcoreapp3.1\Практическая работа9.dll
+C:\Users\Валерия\source\repos\Практическая работа9\obj\Debug\netcoreapp3.1\Практическая работа9.pdb
+C:\Users\Валерия\source\repos\Практическая работа9\obj\Debug\netcoreapp3.1\Практическая работа9.genruntimeconfig.cache
